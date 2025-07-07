@@ -2,11 +2,11 @@
 
 [![hancheng](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/hanchengLab)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+长春理工大学计算机科学技术学院 教授、博士生导师
 
 #### Contact
 
-Email: hancheng@cust.edu.cn
+邮箱: hancheng@cust.edu.cn
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\

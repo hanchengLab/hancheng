@@ -4,9 +4,12 @@
 
 长春理工大学计算机科学技术学院 教授、博士生导师
 
-#### Contact
-
 邮箱: hancheng@cust.edu.cn
+
+地址：吉林省长春市朝阳区卫星路7186号，长春理工大学南校区
+#### 个人简介
+
+
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\

@@ -45,9 +45,8 @@
 
 - Chao Xu, Huamin Yang*,<strong> Cheng Han* </strong>, Chao Zhang. Learning high-quality depth map from 360° multi-exposure imagery, Multimedia Tools and Applications, 2022, CCF C.
 
-#### 学术专著
-
 - Yirong Chi,<strong> Cheng Han* </strong>, Shiyu Lu, Hao Luo. Adaptive Occupancy Map guided Neural Representation for Video Based Point Cloud Attribute Compression, 2025 Data Compression Conference (DCC), CCF B.
+#### 学术专著
 
 - 张超, 杨华民,<strong> 韩成 </strong>, 于翠红, 徐超. 面向数字影视的虚拟内容增强与视觉无缝融合, 国防工业出版社, 2024.
 
